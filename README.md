@@ -4,7 +4,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Chào, tớ là giauydev (👉ﾟヮﾟ)👉
+        👋 Chào cậu, tớ là giauydev (👉ﾟヮﾟ)👉
       </h1>
     </summary>
   </ul>
