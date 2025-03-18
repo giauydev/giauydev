@@ -17,7 +17,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 THPT Ngô Gia Tự**
+- 💼 I'm currently working on: **💻 Trường THPT Ngô Gia Tự**
 - 🌱 I'm currently learning: **📚 C#, MySQL,C++,MongoDB,...**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
 
