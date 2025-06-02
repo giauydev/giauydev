@@ -1,4 +1,5 @@
 ![👋 Chào, tớ là giauydev (👉ﾟヮﾟ)👉](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your_username.your_repo_name)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
