@@ -7,7 +7,7 @@
 
 - 👨‍💻 Tất cả dự án của mình có sẵn tại [https://giauy.dev](https://giauy.dev)
 
-- 📫 Liên hệ với mình qua: **uyda119@gmail.com**
+- 📫 Liên hệ với mình qua: **admin@giauy.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
